@@ -5,3 +5,17 @@ List<String> textsToImages = [
   "Living room",
   "Home office"
 ];
+List<String> blogsTitles = [
+  "Modern Interior",
+  "Exterior Project",
+  "Grey Beauty",
+  "Plantation interior",
+  "Role of furnitures"
+];
+List<String> WhatWeDolist = [
+  "Interior Design",
+  "Kitchen",
+  "Ceiling",
+  "Bedroom",
+  "Smart Home"
+];
